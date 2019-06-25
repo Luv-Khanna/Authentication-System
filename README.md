@@ -1,1 +1,2 @@
 # Authentication-System
+The University of Hong Kong, COMP2396B Object Oriented Programming and Java, Assignment 3. The following programme demonstrates understanding of interface in Java. The code implements an authentication module for a system that manages users' login information. It authenticates the user by generating a hash password and allows the user to create or modify their information. For more details read 'COMP2396B Assignment 3.pdf' file.
